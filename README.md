@@ -1,6 +1,6 @@
 # What Is My IP
 
-NodeJS application that displays your public IP address
+NodeJS application that displays client's public IP address
 
 ## Prerequisites
 
