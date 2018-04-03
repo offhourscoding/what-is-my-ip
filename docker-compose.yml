@@ -1,0 +1,10 @@
+version: '2.1'
+
+services:
+  what-is-my-ip:
+    image: what-is-my-ip
+    build: .
+    environment:
+      NODE_ENV: production
+    ports:
+      - 9002:9002
