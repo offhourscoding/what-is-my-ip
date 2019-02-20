@@ -1,6 +1,8 @@
 # What Is My IP
 
-NodeJS application that displays client's public IP address
+NodeJS application that displays client's public IP address.
+
+Detailed writeup is posted on my blog [here](https://offhourscoding.com/what-is-my-ip/)
 
 ## Prerequisites
 
